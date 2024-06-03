@@ -1,0 +1,30 @@
+{
+  "description": "This is a token with \"Navy Blue\" as Background",
+  "image": "ipfs://QmYF4H4fMCj4A9Z2Xcd3qxKmPLEZHmwKSYAaEk7B3V3kKB/94469f5df1cd6ff99d94e7ae88da672c325ef4e0.png",
+  "name": "Ape 2",
+  "dna": "94469f5df1cd6ff99d94e7ae88da672c325ef4e0",
+  "uid": "2",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Navy Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Camo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Old Face"
+    },
+    {
+      "trait_type": "Prop",
+      "value": "Backpack"
+    }
+  ]
+}

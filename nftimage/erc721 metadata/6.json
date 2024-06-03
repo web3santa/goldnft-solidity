@@ -1,0 +1,30 @@
+{
+  "description": "This is a token with \"Blue\" as Background",
+  "image": "ipfs://QmYF4H4fMCj4A9Z2Xcd3qxKmPLEZHmwKSYAaEk7B3V3kKB/08a7374264cf8c3d0ee3f6a3e45cf7c51c3099e2.png",
+  "name": "Ape 6",
+  "dna": "08a7374264cf8c3d0ee3f6a3e45cf7c51c3099e2",
+  "uid": "6",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Santa"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zap Face"
+    },
+    {
+      "trait_type": "Prop",
+      "value": "Backpack"
+    }
+  ]
+}

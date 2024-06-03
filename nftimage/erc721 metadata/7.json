@@ -1,0 +1,30 @@
+{
+  "description": "This is a token with \"Navy Blue\" as Background",
+  "image": "ipfs://QmYF4H4fMCj4A9Z2Xcd3qxKmPLEZHmwKSYAaEk7B3V3kKB/4725b1b42ead4ebcaf8dd328df67f65386cdcdd0.png",
+  "name": "Ape 7",
+  "dna": "4725b1b42ead4ebcaf8dd328df67f65386cdcdd0",
+  "uid": "7",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Navy Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Eye suite"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Zap Face"
+    },
+    {
+      "trait_type": "Prop",
+      "value": "Backpack"
+    }
+  ]
+}
